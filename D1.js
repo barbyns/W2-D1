@@ -23,6 +23,7 @@ const veroOFalse= true;
 /* SCRIVI QUI LA TUA RISPOSTA */
 let myName= "Barbara";
 console.log(myName)
+
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
