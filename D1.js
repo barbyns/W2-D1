@@ -48,7 +48,7 @@ console.log(X); // 12
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 const myName="Sciortino";
-console.log(myName);
+console.log(myName); // false - impossibile cambiare il risultato
 
 
 /* ESERCIZIO 6
